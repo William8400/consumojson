@@ -1,0 +1,17 @@
+{
+    "paçocas" : {
+        "paçoca de pudim":{
+            "nome": "paçoca de pudim",
+            "ingredientes": "Uma simples paçoca de pudim", 
+            "origem": "Britânica",
+            "nutricao": "pacofita"
+        },
+
+        "paçoca de ovo":{
+            "nome": "paçoca de ovo",
+            "ingredientes": "Uma simples paçoca com ovo", 
+            "origem": "Russa",
+            "nutricao": "pacorussa"
+        }
+    }
+}
