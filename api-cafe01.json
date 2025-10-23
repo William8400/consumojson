@@ -2,14 +2,14 @@
     "paçocas" : {
         "paçoca de pudim":{
             "nome": "paçoca de pudim",
-            "ingredientes": "Uma simples paçoca de pudim", 
+            "ingredientes": ["duas xicaras de farofa de amendoim", "1 lata de leite condensado"], 
             "origem": "Britânica",
             "nutricao": "pacofita"
         },
 
         "paçoca de ovo":{
             "nome": "paçoca de ovo",
-            "ingredientes": "Uma simples paçoca com ovo", 
+            "ingredientes": ["Gema cristalizada do amanhecer", "Farofa de amendoim encantado"], 
             "origem": "Russa",
             "nutricao": "pacorussa"
         }

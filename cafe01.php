@@ -10,7 +10,7 @@ $nome = $_GET['nome'];
 
 switch($pacoca_especifica){
 
-    case "pudim":
+    case "GET":
         $paçoca_pudim = $paçocas['paçocas']['paçoca de pudim'];
         echo json_decode($paçocas);
         break;
