@@ -6,7 +6,7 @@ $pokemons = ["pikachu", "bulbasaur", "charmander", "squirtle"];
 /* Depois faço um looping para a variável passar por cada pokémon e chamar um por um  */
 foreach ($pokemons as $pokemon) {
 
-    // depois eu monto uma url da api pokeAPI guardando uma vbariável nela contendo os 4 pokémons ao invéz de 1 só
+    // depois eu monto uma url da api pokeAPI guardando uma variável nela contendo os 4 pokémons ao invéz de 1 só
     $url = "https://pokeapi.co/api/v2/pokemon/$pokemon";
     
     /* aqui eu fiz a requisição HTTP que pega os dados do json da url  */
