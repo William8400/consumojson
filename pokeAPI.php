@@ -11,7 +11,7 @@ foreach ($pokemons as $pokemon) {
     
     /* aqui eu fiz a requisição HTTP que pega os dados do json da url  */
     
-    $resposta = file_get_contents($url);
+    $resposta = file_get_contents($url);    
     
     /* Aqui eu converti o json em um array associativo */
     $dados = json_decode($resposta, true);
